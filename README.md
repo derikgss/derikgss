@@ -18,16 +18,16 @@ Utilizo as ferramentas:
 <p>
 <!-- Visual Studio Code -->
 <a href="https://code.visualstudio.com/">
-<img src="https://imgs.search.brave.com/dRe7okRcPFuFYs3dw4Up3FosvUKLDAPT_xjBuqaHUxs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aHVt/Yi53aWtpbWVkaWEu/b3JnL3dpa2lwZWRp/YS9jb21tb25zL3Ro/dW1iLzkvOWEvVmlz/dWFsX1N0dWRpb19D/b2RlXzEuMzVfaWNv/bi5zdmcvMjUwcHgt/VmlzdWFsX1N0dWRp/b19Db2RlXzEuMzVf/aWNvbi5zdmcucG5n/P3V0bV9zb3VyY2U9/Y29tbW9ucy53aWtp/bWVkaWEub3JnJnV0/bV9jYW1wYWlnbj1w/YXJzZXImdXRtX2Nv/bnRlbnQ9dGh1bWJu/YWls" width="50">
+<img src="https://imgs.search.brave.com/dRe7okRcPFuFYs3dw4Up3FosvUKLDAPT_xjBuqaHUxs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aHVt/Yi53aWtpbWVkaWEu/b3JnL3dpa2lwZWRp/YS9jb21tb25zL3Ro/dW1iLzkvOWEvVmlz/dWFsX1N0dWRpb19D/b2RlXzEuMzVfaWNv/bi5zdmcvMjUwcHgt/VmlzdWFsX1N0dWRp/b19Db2RlXzEuMzVf/aWNvbi5zdmcucG5n/P3V0bV9zb3VyY2U9/Y29tbW9ucy53aWtp/bWVkaWEub3JnJnV0/bV9jYW1wYWlnbj1w/YXJzZXImdXRtX2Nv/bnRlbnQ9dGh1bWJu/YWls" width="35">
 </a>
 
 <!-- Visual Studio -->
 <a href="https://visualstudio.microsoft.com/pt-br/">
-<img src="https://imgs.search.brave.com/hxBWLB7h7DbdYbZnijRGQz4vICvlZDc-EYKOPiDZDRw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aHVt/Yi53aWtpbWVkaWEu/b3JnL3dpa2lwZWRp/YS9jb21tb25zL3Ro/dW1iLzIvMmMvVmlz/dWFsX1N0dWRpb19J/Y29uXzIwMjIuc3Zn/LzI1MHB4LVZpc3Vh/bF9TdHVkaW9fSWNv/bl8yMDIyLnN2Zy5w/bmc_dXRtX3NvdXJj/ZT1lbi53aWtpcGVk/aWEub3JnJnV0bV9j/YW1wYWlnbj1pbmRl/eCZ1dG1fY29udGVu/dD10aHVtYm5haWw" width="50">
+<img src="https://imgs.search.brave.com/hxBWLB7h7DbdYbZnijRGQz4vICvlZDc-EYKOPiDZDRw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aHVt/Yi53aWtpbWVkaWEu/b3JnL3dpa2lwZWRp/YS9jb21tb25zL3Ro/dW1iLzIvMmMvVmlz/dWFsX1N0dWRpb19J/Y29uXzIwMjIuc3Zn/LzI1MHB4LVZpc3Vh/bF9TdHVkaW9fSWNv/bl8yMDIyLnN2Zy5w/bmc_dXRtX3NvdXJj/ZT1lbi53aWtpcGVk/aWEub3JnJnV0bV9j/YW1wYWlnbj1pbmRl/eCZ1dG1fY29udGVu/dD10aHVtYm5haWw" width="35">
 </a>
 <!-- SQL Server -->
 <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads">
-<img src="https://imgs.search.brave.com/_KNUkyZvxY_UsRL015KgfzdEkiJ120HLSxjr49cCRSc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jb21t/dW5pdHkuY2hvY29s/YXRleS5vcmcvY29u/dGVudC9wYWNrYWdl/aW1hZ2VzL3NxbC1z/ZXJ2ZXItbWFuYWdl/bWVudC1zdHVkaW8u/MjIuMTAuMS5wbmc" width="50">
+<img src="https://imgs.search.brave.com/_KNUkyZvxY_UsRL015KgfzdEkiJ120HLSxjr49cCRSc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jb21t/dW5pdHkuY2hvY29s/YXRleS5vcmcvY29u/dGVudC9wYWNrYWdl/aW1hZ2VzL3NxbC1z/ZXJ2ZXItbWFuYWdl/bWVudC1zdHVkaW8u/MjIuMTAuMS5wbmc" width="35">
 </a>
 
 
