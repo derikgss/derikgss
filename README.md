@@ -44,7 +44,6 @@ Atualmente estou cursando um tecnólogo de 2 anos, buscando desenvolver minhas h
 ### Contatos:
 [E-mail]: derikgustavo2503@gmail.com
 [Discord]: Derikgss
-
 <p>
 
 
