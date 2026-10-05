@@ -1,9 +1,11 @@
+<!-- ======= Apresentação ======= -->
 # ✋ Olá! Me chamo Dérik. 
 
 - Estudante de Desenvolvimento de Sistemas 🎓 | Trabalhando em projetos 💻
 
 Atualmente estou cursando um tecnólogo de 2 anos, buscando desenvolver minhas habilidades em programação e desenvolvimento de software. 
 
+<!-- ======= Linguagens de Programação ======= -->
 Estudando:
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -14,6 +16,7 @@ Estudando:
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
+<!-- ===== Ferramentas ==== -->
 Utilizo as ferramentas:
 <p>
 <!-- Visual Studio Code -->
@@ -35,5 +38,21 @@ Utilizo as ferramentas:
 <a href="https://developer.android.com/studio?hl=pt-br">
 <img src="https://imgs.search.brave.com/r46nwARrleuGP5VcvpSeE4tphrVTH_NipZ9CwqN_7FY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy85/Lzk1L0FuZHJvaWRf/U3R1ZGlvX0ljb25f/My42LnN2Zw" width="35">
 </a>
+</p>
 
+<!-- ======= Redes sociais ======= -->
+Redes Sociais: 
+
+<p>
+
+
+
+
+
+
+
+
+
+
+  
 </p>
