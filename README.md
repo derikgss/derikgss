@@ -6,7 +6,7 @@
 Atualmente estou cursando um tecnólogo de 2 anos, buscando desenvolver minhas habilidades em programação e desenvolvimento de software. 
 
 <!-- ======= Linguagens de Programação ======= -->
-Estudando:
+### Estudando:
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -17,7 +17,7 @@ Estudando:
 </p>
 
 <!-- ===== Ferramentas ==== -->
-Utilizo as ferramentas:
+### Utilizo as ferramentas:
 <p>
 <!-- Visual Studio Code -->
 <a href="https://code.visualstudio.com/">
@@ -41,7 +41,9 @@ Utilizo as ferramentas:
 </p>
 
 <!-- ======= Redes sociais ======= -->
-Redes Sociais: 
+### Contatos:
+[E-mail]: derikgustavo2503@gmail.com
+[Discord]: Derikgss
 
 <p>
 
