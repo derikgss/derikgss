@@ -26,7 +26,7 @@ Atualmente estou cursando um tecnólogo de 2 anos, buscando desenvolver minhas h
 
 <!-- Visual Studio -->
 <a href="https://visualstudio.microsoft.com/pt-br/">
-<img src="https://imgs.search.brave.com/hxBWLB7h7DbdYbZnijRGQz4vICvlZDc-EYKOPiDZDRw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aHVt/Yi53aWtpbWVkaWEu/b3JnL3dpa2lwZWRp/YS9jb21tb25zL3Ro/dW1iLzIvMmMvVmlz/dWFsX1N0dWRpb19J/Y29uXzIwMjIuc3Zn/LzI1MHB4LVZpc3Vh/bF9TdHVkaW9fSWNv/bl8yMDIyLnN2Zy5w/bmc_dXRtX3NvdXJj/ZT1lbi53aWtpcGVk/aWEub3JnJnV0bV9j/YW1wYWlnbj1pbmRl/eCZ1dG1fY29udGVu/dD10aHVtYm5haWw" width="35">
+<img src="[https://imgs.search.brave.com/hxBWLB7h7DbdYbZnijRGQz4vICvlZDc-EYKOPiDZDRw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aHVt/Yi53aWtpbWVkaWEu/b3JnL3dpa2lwZWRp/YS9jb21tb25zL3Ro/dW1iLzIvMmMvVmlz/dWFsX1N0dWRpb19J/Y29uXzIwMjIuc3Zn/LzI1MHB4LVZpc3Vh/bF9TdHVkaW9fSWNv/bl8yMDIyLnN2Zy5w/bmc_dXRtX3NvdXJj/ZT1lbi53aWtpcGVk/aWEub3JnJnV0bV9j/YW1wYWlnbj1pbmRl/eCZ1dG1fY29udGVu/dD10aHVtYm5haWw](https://imgs.search.brave.com/F9pG6Z0b_qn5HZl4tDGzDiamjbTFtcrFya65f3oTLAE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL2ZyZWUv/cG5nLTI1Ni9mcmVl/LXZpc3VhbC1zdHVk/aW8taWNvbi1zdmct/ZG93bmxvYWQtcG5n/LTE0NTQ3OTk3LnBu/Zz9mPXdlYnAmdz0x/Mjg)" width="35">
 </a>
 
 <!-- SQL Server -->
