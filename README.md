@@ -7,7 +7,9 @@ Atualmente estou cursando um tecnólogo de 2 anos, buscando desenvolver minhas h
 
 <!-- ======= Linguagens de Programação ======= -->
 ### Estudando:
-<input type="checkbox"> Testes Únitarios
+[x] Testes Unitário 
+[] Programação Orientada a eventos
+[] Arquitetura Hexagonal
 
 <!-- ===== Ferramentas ==== -->
 ### Utilizo as ferramentas:
