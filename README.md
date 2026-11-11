@@ -8,8 +8,8 @@ Atualmente estou cursando um tecnólogo de 2 anos, buscando desenvolver minhas h
 <!-- ======= Linguagens de Programação ======= -->
 ### Estudando:
 [x] Testes Unitário <br>
-[] Programação Orientada a eventos <br>
-[] Arquitetura Hexagonal <br>
+[ ] Programação Orientada a eventos <br>
+[ ] Arquitetura Hexagonal <br>
 
 <!-- ===== Ferramentas ==== -->
 ### Utilizo as ferramentas:
@@ -37,7 +37,7 @@ Atualmente estou cursando um tecnólogo de 2 anos, buscando desenvolver minhas h
 
 <!-- ======= Redes sociais ======= -->
 ### Contatos:
-[E-mail]: derikgustavo2503@gmail.com
+[E-mail]: derik.gss.dev@gmail.com
 [Discord]: Derikgss
 <p>
 
