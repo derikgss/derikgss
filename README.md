@@ -37,9 +37,10 @@ Atualmente estou cursando um tecnólogo de 2 anos, buscando desenvolver minhas h
 
 <!-- ======= Redes sociais ======= -->
 ### Contatos:
+<p>
 [E-mail]: derik.gss.dev@gmail.com
 [Discord]: Derikgss
-<p>
+</p>
 
 
 
